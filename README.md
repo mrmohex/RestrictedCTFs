@@ -1,4 +1,4 @@
-<img width="711" height="443" alt="Screenshot 2026-11-01 010622" src="https://github.com/user-attachments/assets/ab348f28-e5c0-4dc0-b7fc-4f0c628fde95" />
+<img width="711" height="443" alt="Screenshot 2026-11-01 010622" src="https://github.com/user-attachments/assets/f74f38bf-1c06-41f4-8717-3858299d755c" />
 
 # RestrictedCTFs
 
