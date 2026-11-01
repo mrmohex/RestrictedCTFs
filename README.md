@@ -1,8 +1,8 @@
 <img width="711" height="443" alt="Screenshot 2026-11-01 010622" src="https://github.com/user-attachments/assets/ab348f28-e5c0-4dc0-b7fc-4f0c628fde95" />
 
-# Restricted Path
+# RestrictedCTFs
 
-A Linux-based CTF challenge that tests your enumeration, problem-solving, and privilege escalation skills.
+A Linux-based CTF challenges that tests your enumeration and privilege escalation skills.
 
 Explore the environment, find hidden weaknesses, and try to gain access to the ultimate objective.
 
@@ -14,7 +14,7 @@ Explore the environment, find hidden weaknesses, and try to gain access to the u
 
 - **Platform:** Linux
 - **Category:** Privilege Escalation
-- **Difficulty:** Easy To Medium
+- **Difficulty:** Easy & Medium
 - **Environment:** Ubuntu 24.04
 - **Required:** Docker
 
@@ -23,19 +23,15 @@ Explore the environment, find hidden weaknesses, and try to gain access to the u
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/mrmohex/Rest_CTF.git
+git clone https://github.com/mrmohex/RestrictedCTFs.git
 ```
-
+### 2. Run the challenge
 ```bash
-cd Rest_CTF
-```
-### 3. Run the challenge
-
-```bash
+cd RestrictedCTFs
+cd RestrictedCTFs/RestrictedCTF_Medium
 ./start
 ```
-
-### 4. Start hacking!
+### 3. Start hacking!
 
 You're now inside the challenge environment.
 
