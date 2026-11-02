@@ -29,6 +29,7 @@ git clone https://github.com/mrmohex/RestrictedCTFs.git
 ```bash
 cd RestrictedCTFs
 cd RestrictedCTFs/RestrictedCTF_Medium
+chmod +x start
 ./start
 ```
 ### 3. Start hacking!
